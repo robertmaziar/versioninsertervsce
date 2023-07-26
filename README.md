@@ -6,9 +6,10 @@ Insert a version number directly into the text editor, avoiding potential typos 
 
 Currently the only version format supported is a concatenation of year, month, day, hour and minute, commonly used for migration versions. 
 
-### 1.0.0
+### 1.0.3
 
-Initial release of Version Inserter (VSCE)
+Latest release of Version Inserter (VSCE).
+Targeting vscode versions 1.77.0 and up.
 
 ## Following extension guidelines
 
