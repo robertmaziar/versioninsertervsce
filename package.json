@@ -3,6 +3,7 @@
   "publisher": "rmaziar-personal-tools",
   "displayName": "Version Inserter VSCE",
   "description": "",
+  "icon": "/src/icons/version_inserter_icon_128x128.png",
   "version": "1.0.3",
   "repository": "https://github.com/robertmaziar/versioninsertervsce",
   "engines": {
